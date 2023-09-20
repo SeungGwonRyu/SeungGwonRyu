@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Seung%20Gwon's%20Github&animation=twinkling&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome!👋&descAlignY=51&descAlign=85)
 <!--
 **SeungGwonRyu/SeungGwonRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
