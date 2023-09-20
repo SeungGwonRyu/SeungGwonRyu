@@ -10,7 +10,7 @@
 <br>
 <div align=center> 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white">
-
+<img src="https://img.shields.io/badge/Power Point-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white">
 
 <div align=center><h1>📱 Collaboration</h1></div>
 <div align=center> 
@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 <br>
-
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 [![Seung Gwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungGwonRyu&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
