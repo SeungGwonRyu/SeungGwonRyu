@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20Seung%20Gwon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)<!--
-**SeungGwonRyu/SeungGwonRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&color=99afc2&text=Welcome%20to%20Seung%20Gwon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
