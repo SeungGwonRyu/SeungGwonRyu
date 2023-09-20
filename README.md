@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <br>
 <div align=center> 
-<img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white">
 
 
 <div align=center><h1>📱 Collaboration</h1></div>
