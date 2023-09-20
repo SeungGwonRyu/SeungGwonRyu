@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Seung%20Gwon's%20Github&animation=twinkling&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome!👋&descAlignY=51&descAlign=85)
-<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Seung%20Gwon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)<!--
 **SeungGwonRyu/SeungGwonRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
