@@ -4,7 +4,7 @@
 
 <div align=center><h1>📱 Collaboration</h1></div>
 <div align=center> 
-<img src="https://img.shields.io/badge/slack-4A154Bstyle=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154Bstyle=for-the-badge&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 <br>
