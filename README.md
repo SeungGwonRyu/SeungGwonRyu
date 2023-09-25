@@ -2,6 +2,23 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungGwonRyu&count_bg=%231A7870&title_bg=%23625C9E&icon=sparkpost.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>📚 PROFILE</title>
+  <style>
+    body {
+      text-align: center; /* 전체 본문을 가운데 정렬합니다. */
+    }
+    h1 {
+      font-size: 24px;
+    }
+    .profile-info {
+      font-size: 18px;
+      text-align: center; /* .profile-info 내용을 가운데 정렬합니다. */
+    }
+  </style>
 </head>
 <body>
   <div>
@@ -13,7 +30,6 @@
     <p> 📖 학점 : 4.08/4.5</p>
     <p> 👦 42대 동아리연합회 비상대책위원회 연행예술분과장, 시설지원팀장</p>
     <p> 🕺 중앙댄스동아리 부회장, 축제공연, 정기공연</p>
-    
   </div>
 </body>
 </html>
