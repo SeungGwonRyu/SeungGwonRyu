@@ -5,7 +5,7 @@
 </head>
 <body>
   <div class="section">
-    <h1>📚 PROFILE</h1>
+    <h1>💁‍♂️ PROFILE</h1>
     <div class="content">
       <p> 🧑‍🎓 한양대학교 에리카 재학중</p>
       <p> 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스</p>
