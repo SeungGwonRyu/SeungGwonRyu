@@ -2,31 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungGwonRyu&count_bg=%231A7870&title_bg=%23625C9E&icon=sparkpost.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>📚 PROFILE</title>
-  <style>
-    body {
-      text-align: center;
-      font-family: Arial, sans-serif;
-    }
-    h1 {
-      font-size: 24px;
-    }
-    .section {
-      margin-top: 20px;
-    }
-    .section-title {
-      font-size: 20px;
-    }
-    .content {
-      font-size: 18px;
-    }
-    .badge {
-      margin: 5px;
-    }
-  </style>
 </head>
 <body>
   <div class="section">
