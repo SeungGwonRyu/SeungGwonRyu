@@ -25,9 +25,6 @@
 🖲️ ADSP  , 💵 펀드투자금융대행인  
 <br>
 
-[![Seung Gwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungGwonRyu&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
-
-
 - 🧑‍🎓 한양대학교 에리카 재학중
 - 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스
 - 📖 학점 : 4.08/4.5
@@ -36,4 +33,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![Seung Gwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungGwonRyu&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
