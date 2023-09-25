@@ -20,10 +20,34 @@
 <br>
 
 
-<div align=center><h1>📖 Certificate</h1></div>
-<div align=center> 
-🖲️ ADSP  , 💵 펀드투자금융대행인  
-<br>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>📖 Certificate</title>
+  <style>
+    body {
+      text-align: center;
+    }
+    h1 {
+      font-size: 24px;
+    }
+    .certificate-info {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>📖 Certificate</h1>
+  </div>
+  <div class="certificate-info">
+    🖲️ ADSP<br>
+    💵 펀드투자금융대행인
+  </div>
+</body>
+</html>
+
 
 </head>
 <body>
