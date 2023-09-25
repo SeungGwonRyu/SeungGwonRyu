@@ -20,22 +20,6 @@
 <br>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>📖 Certificate</title>
-  <style>
-    body {
-      text-align: center;
-    }
-    h1 {
-      font-size: 24px;
-    }
-    .certificate-info {
-      font-size: 18px;
-    }
-  </style>
 </head>
 <body>
   <div>
