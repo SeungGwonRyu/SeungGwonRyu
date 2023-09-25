@@ -25,22 +25,6 @@
 🖲️ ADSP  , 💵 펀드투자금융대행인  
 <br>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>📚 PROFILE</title>
-  <style>
-    body {
-      text-align: center;
-    }
-    h1 {
-      font-size: 24px;
-    }
-    .profile-info {
-      font-size: 18px;
-    }
-  </style>
 </head>
 <body>
   <div>
