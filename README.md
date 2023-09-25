@@ -31,5 +31,36 @@
 - 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스
 - 📖 학점 : 4.08/4.5
 - 🕺 중앙댄스동아리 부회장, 축제공연, 정기공연
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>📚 PROFILE</title>
+  <style>
+    body {
+      text-align: center;
+    }
+    h1 {
+      font-size: 24px;
+    }
+    .profile-info {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1>📚 PROFILE</h1>
+  </div>
+  <div class="profile-info">
+    <p>- 🧑‍🎓 한양대학교 에리카 재학중</p>
+    <p>- 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스</p>
+    <p>- 📖 학점 : 4.08/4.5</p>
+    <p>- 🕺 중앙댄스동아리 부회장, 축제공연, 정기공연</p>
+  </div>
+</body>
+</html>
+
   
 [![Seung Gwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungGwonRyu&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
