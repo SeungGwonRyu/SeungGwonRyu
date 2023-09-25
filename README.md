@@ -2,51 +2,76 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungGwonRyu&count_bg=%231A7870&title_bg=%23625C9E&icon=sparkpost.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>📚 PROFILE</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-size: 24px;
+    }
+    .section {
+      margin-top: 20px;
+    }
+    .section-title {
+      font-size: 20px;
+    }
+    .content {
+      font-size: 18px;
+    }
+    .badge {
+      margin: 5px;
+    }
+  </style>
 </head>
 <body>
-  <div>
+  <div class="section">
     <h1>📚 PROFILE</h1>
+    <div class="content">
+      <p> 🧑‍🎓 한양대학교 에리카 재학중</p>
+      <p> 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스</p>
+      <p> 📖 학점 : 4.08/4.5</p>
+      <p> 👦 42대 동아리연합회 비상대책위원회 연행예술분과장, 시설지원팀장</p>
+      <p> 🕺 중앙댄스동아리 부회장, 축제공연, 정기공연</p>
+    </div>
   </div>
-  <div class="profile-info">
-    <p> 🧑‍🎓 한양대학교 에리카 재학중</p>
-    <p> 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스</p>
-    <p> 📖 학점 : 4.08/4.5</p>
-    <p> 👦 42대 동아리연합회 비상대책위원회 연행예술분과장, 시설지원팀장</p>
-    <p> 🕺 중앙댄스동아리 부회장, 축제공연, 정기공연</p>
-    
+
+  <div class="section">
+    <h1>📚 SKILL</h1>
+    <div class="content">
+      <img class="badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img class="badge" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+      <img class="badge" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+      <br>
+      <img class="badge" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white">
+      <img class="badge" src="https://img.shields.io/badge/Power%20Point-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white">
+    </div>
   </div>
-</body>
-</html>
 
-<div align=center><h1>📚 SKILL</h1></div>
-<div align=center> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-<br>
-<div align=center> 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white">
-<img src="https://img.shields.io/badge/Power Point-B7472A?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white">
+  <div class="section">
+    <h1>📱 Collaboration</h1>
+    <div class="content">
+      <img class="badge" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+      <img class="badge" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+      <img class="badge" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+    </div>
+  </div>
 
-<div align=center><h1>📱 Collaboration</h1></div>
-<div align=center> 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-<br>
-
-
-</head>
-<body>
-  <div>
+  <div class="section">
     <h1>📖 Certificate</h1>
-  </div>
-  <div class="certificate-info">
-    🖲️ ADSP<br>
-    💵 펀드투자금융대행인
+    <div class="content">
+      🖲️ ADSP<br>
+      💵 펀드투자금융대행인
+    </div>
   </div>
 </body>
 </html>
+
 
 
 
