@@ -25,13 +25,6 @@
 🖲️ ADSP  , 💵 펀드투자금융대행인  
 <br>
 
-<div align=center><h1>📚 POFILE</h1></div>
-<div align=center> 
-- 🧑‍🎓 한양대학교 에리카 재학중
-- 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스
-- 📖 학점 : 4.08/4.5
-- 🕺 중앙댄스동아리 부회장, 축제공연, 정기공연
-
 <!DOCTYPE html>
 <html>
 <head>
