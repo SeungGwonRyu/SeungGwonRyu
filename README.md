@@ -2,6 +2,22 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungGwonRyu&count_bg=%231A7870&title_bg=%23625C9E&icon=sparkpost.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</head>
+<body>
+  <div>
+    <h1>📚 PROFILE</h1>
+  </div>
+  <div class="profile-info">
+    <p> 🧑‍🎓 한양대학교 에리카 재학중</p>
+    <p> 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스</p>
+    <p> 📖 학점 : 4.08/4.5</p>
+    <p> 👦 42대 동아리연합회 비상대책위원회 연행예술분과장, 시설지원팀장</p>
+    <p> 🕺 중앙댄스동아리 부회장, 축제공연, 정기공연</p>
+    
+  </div>
+</body>
+</html>
+
 <div align=center><h1>📚 SKILL</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -33,21 +49,6 @@
 </html>
 
 
-</head>
-<body>
-  <div>
-    <h1>📚 PROFILE</h1>
-  </div>
-  <div class="profile-info">
-    <p> 🧑‍🎓 한양대학교 에리카 재학중</p>
-    <p> 📚 주전공 : 경영학부, 융합전공 : 비즈니스애널리틱스</p>
-    <p> 📖 학점 : 4.08/4.5</p>
-    <p> 👦 42대 동아리연합회 비상대책위원회 연행예술분과장, 시설지원팀장</p>
-    <p> 🕺 중앙댄스동아리 부회장, 축제공연, 정기공연</p>
-    
-  </div>
-</body>
-</html>
 
   
 [![Seung Gwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungGwonRyu&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
