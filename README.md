@@ -37,7 +37,7 @@
   </div>
 
   <div class="section">
-    <h1>📱 Collaboration</h1>
+    <h1>📱 COLLABORATION</h1>
     <div class="content">
       <img class="badge" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
       <img class="badge" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -46,7 +46,7 @@
   </div>
 
   <div class="section">
-    <h1>📖 Certificate</h1>
+    <h1>📖 CERTIFICATE</h1>
     <div class="content">
       🖲️ ADSP<br>
       💵 펀드투자금융대행인
